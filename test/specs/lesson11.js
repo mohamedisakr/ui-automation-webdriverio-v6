@@ -1,4 +1,5 @@
 describe("Lesson 11 (Enabled, isFocused, scrolIntoView methods)", () => {
+  /*
   //
   xit("should detect if an element is isEnabled", () => {
     browser.url("https://webdriver.io/");
@@ -25,4 +26,5 @@ describe("Lesson 11 (Enabled, isFocused, scrolIntoView methods)", () => {
     githubLink.scrollIntoView();
     browser.pause(3000);
   });
+  */
 });
