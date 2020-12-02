@@ -20,7 +20,7 @@ describe("Lesson 9 tasks", () => {
   });
 
   //
-  it("Task 4: type some text in the search box", () => {
+  xit("Task 4: type some text in the search box", () => {
     browser.url("https://webdriver.io/");
     const searchBox = $("#search_input_react");
     searchBox.setValue("course");
