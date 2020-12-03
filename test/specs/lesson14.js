@@ -1,4 +1,5 @@
 describe("Lesson 14 tasks", () => {
+  /*
   //
   it("Task 1", () => {
     const wdio = "https://webdriver.io/docs/api.html";
@@ -76,4 +77,5 @@ describe("Lesson 14 tasks", () => {
     // 14. click blog menu item
     blog.click();
   });
+  */
 });
