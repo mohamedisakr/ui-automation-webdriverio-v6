@@ -1,4 +1,5 @@
 describe("Lesson 13 (getHTML , waitUntil methods)", () => {
+  /*
   //
   xit("should wait until", () => {
     browser.url("https://webdriver.io/");
@@ -28,4 +29,5 @@ describe("Lesson 13 (getHTML , waitUntil methods)", () => {
     const innerHtml = siteNavigator.getHTML(false);
     console.log("inner html: ", innerHtml);
   });
+  */
 });

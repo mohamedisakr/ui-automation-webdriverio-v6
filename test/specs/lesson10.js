@@ -20,7 +20,7 @@ describe("Lesson 10 (isDisplayed, isDisplayedInViewPort, isClickable methods)", 
   xit("should detect if an element is visible", () => {
     browser.url("https://webdriver.io/");
     const blog = $('[href="/blog/"]');
-    const isDisplayedInViewport = blog.isDisplayed();
+    const isDisplayedInViewport = blog.isDisplayedInViewport();
     console.log(
       "Is blog menu item is Displayed in Viewport? ",
       isDisplayedInViewport
